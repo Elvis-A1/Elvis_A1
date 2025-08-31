@@ -45,24 +45,14 @@ Become a **professional full-stack developer** delivering maintainable, producti
   <!-- Frontend -->
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="28"/>
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="28"/>
-  <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28"/>
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="28"/>
-  <img alt="TailwindCSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="28"/>
-
-  <!-- Backend -->
-  <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="28"/>
-  <img alt="Express" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="28"/>
-  <img alt="[YOUR_DB]" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="28"/>
-  <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="28"/>
 
   <!-- Tools -->
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="28"/>
   <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="28"/>
-  <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28"/>
-  <img alt="Vite" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" height="28"/>
+  
 </p>
 
-> _Tip: Keep only what you can discuss confidently in interviews._
+<!_Tip: Keep only what you can discuss confidently in interviews._>
 
 ---
 
@@ -72,48 +62,17 @@ Become a **professional full-stack developer** delivering maintainable, producti
 <!-- ========== EXPERIENCE / EDUCATION ========== -->
 
 ### 🎓 Education
-- **ALX Professional Foundation** — , 2025
+- **ALX Professional Foundation** —  2025
 - **ALX Web Development** — COHORT 7/Front-End and Back-End, 2025  
   Focus: Full-stack projects, Git/GitHub, problem-solving.
-
-### 🏅 Certifications
-- [CERT_NAME] — [ISSUER], [YEAR]  
-- [CERT_NAME] — [ISSUER], [YEAR]
-
----
-
-<!-- ========== OPEN SOURCE ========== -->
-### 🌱 Open Source & Community
-- Issues/PRs to: [REPO_ORG/NAME] — [#PR or issue], [short impact]  
-- Hackathons/Challenges: [EVENT_NAME], [YEAR] — [result or contribution]
-
----
-
-<!-- ========== WRITING / TALKS ========== -->
-### ✍️ Writing & Talks
-- “[POST_TITLE]” — [PLATFORM], [LINK]  
-- “[TALK_TITLE]” — [EVENT], [LINK]
-
----
-
-<!-- ========== STATS (Optional) ========== -->
-### 📊 GitHub at a Glance
-<!-- Swap theme= based on your GitHub theme. You can remove these if you prefer minimal. -->
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=[GH_USERNAME]&show_icons=true&theme=default&hide_border=true" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=[GH_USERNAME]&theme=default&hide_border=true" height="140" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[GH_USERNAME]&layout=compact&theme=default&hide_border=true" height="140" />
-</p>
-
 ---
 
 <!-- ========== CONTACT ========== -->
 ### 📫 Contact
-- Email: [EMAIL_ADDRESS]  
-- LinkedIn: [LINKEDIN_URL]  
-- Portfolio: [PORTFOLIO_URL]
+- Email: anekeelvis23@gmail.com 
+- LinkedIn: https://www.linkedin.com/in/elvis-chibuike-aneke/
+- Portfolio: https://sites.google.com/view/elvisaneke/home
+- X: https://x.com/AnekeElvis99362
 
 > Prefer pairing on a problem or code review? Send a quick note—happy to collaborate.
 
@@ -123,10 +82,10 @@ Become a **professional full-stack developer** delivering maintainable, producti
 ### 💡 A bit more about me
 - I care about **accessibility, performance, and clean APIs**.  
 - Inspired by turning **daily problems into helpful tools**.  
-- Currently learning: **[TOPIC_1]**, **[TOPIC_2]**.  
+- Currently learning: **HTML**, **PYTHON**.  
 
 <!-- Footer -->
 <div align="center">
-  <sub>Built with ❤️ and curiosity. Last updated: <!-- UPDATE_DATE -->[YYYY-MM-DD]</sub>
+  <sub>Built with ❤️ and curiosity. Last updated: <!-- UPDATE_DATE -->[2025-AUGUST-30]></sub>
 </div>
 
